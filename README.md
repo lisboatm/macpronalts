@@ -109,3 +109,9 @@ for _ in range(p):
 # Impressão do total com duas casas decimais
 print(f"{total:.2f}")
 ```
+
+## Considerações Finais
+
+- O programa deve garantir que os códigos dos produtos fornecidos estão no cardápio e que as quantidades são válidas.
+- A saída deve sempre ser formatada com duas casas decimais, mesmo que o valor total seja um número inteiro.
+- O programa deve ser executado em um ambiente que suporte entrada e saída padrão.
